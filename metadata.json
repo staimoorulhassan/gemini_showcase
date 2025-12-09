@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Feature Showcase",
+  "description": "An application demonstrating a wide range of Gemini API capabilities, from real-time voice conversations and video generation to advanced text and image analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
